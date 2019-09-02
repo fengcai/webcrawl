@@ -1,6 +1,6 @@
 # QQ微信 112908676
 # 下载地址
-2019.08.30 版本2.4.0 ，下载地址：https://share.weiyun.com/5hmFnXA
+2019.09.02 版本2.4.0 ，下载地址：https://www.lanzous.com/i5yn9gh
 
 **<font color=red>下载结束如遇360弹出压缩包解密提醒，请直接取消忽略</font>**
 
@@ -49,7 +49,7 @@
 ![setting](https://github.com/fengcai/webcrawl/blob/master/buy_setting.png "setting")
 
 # Excel文件格式说明
-- 每个Excel的第一行默认表示列名称，请自行对照示例文档
+- 每个Excel的第一行默认表示列名称，请自行对照每种示例文档
 - `\root_crawl\tb_order_in.js`中的名称必须与Excel中相应的列名称一致，可以自行根据实际情况修改
 - 如下代码块表示文件`\root_crawl\tb_order_in.js`表示支持的列名称预定义
 ```javascript
@@ -96,8 +96,8 @@ var buy_local_setting =
 ### Excel中填写示例
 ![优惠券设置](https://github.com/fengcai/webcrawl/blob/master/quan_excel.png "优惠券设置")
 ## 购买商品
-如下图中箭头所指，取自商品页面浏览器的地址栏，根据该链接软件可以直接进入商品页开始购买
-支持淘宝联盟链接，如https://s.click.taobao.com/b9EB9Mw
+- 如下图中箭头所指，取自商品页面浏览器的地址栏，根据该链接软件可以直接进入商品页开始购买
+- 支持淘宝联盟链接，如https://s.click.taobao.com/b9EB9Mw
 ![商品链接](https://github.com/fengcai/webcrawl/blob/master/product_link.png)
 ## SKU格式
 ### 正确的格式
